@@ -1,0 +1,60 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+								Epic and User Story for TRIVIA APP
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Epic 1: App Structure
+  
+  User Story 1.1: As a user, I want to see the name of the app and navigation tabs in the header so that I can easily navigate through the app.
+    
+  User Story 1.2: As a user, I want to see a card that displays trivia questions with multiple choice and true/false options so that I can answer the questions.
+    
+  User Story 1.3: As a user, I want to see which question number I am on and the total number of questions so that I can track my progress.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Epic 2: Question Navigation
+
+  User Story 2.1: As a user, I want to advance to the next question once I have answered the current question so that I can continue the trivia session.
+    
+  User Story 2.2: As a user, I want to be informed if my answer was right or wrong so that I can learn from my mistakes.
+    
+  User Story 2.3: As a user, I want to see a clear message when the trivia session is done and my score so that I can know how well I did.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+   
+Epic 3: Styling
+
+  User Story 3.1: As a user, I want the app to have a visually appealing style reminiscent of the demo versions, so I enjoy using the app.
+  
+  User Story 3.2: As a user, I want the app to be responsive and not overflow the viewport on any device, so I have a good user experience.
+  
+  User Story 3.3: As a user, I want the answer buttons to collapse into a column on small devices, so I can easily interact with the app.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Epic 4: Functionality
+
+  User Story 4.1: As a user, I want the quiz to span all questions in the question API, so I can answer a variety of questions.
+
+  User Story 4.2: As a user, I want the page to not reload during the quiz, so I have a seamless experience.
+
+  User Story 4.3: As a user, I want to sort questions by subject, so I can answer questions specific to the subject of my choosing.
+
+  User Story 4.4: As a user, I want to track my progress through sessions using backend persistence, so I never have repeat questions unless I clear my progress.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Epic 5: Upon Load
+
+  User Story 5.1: As a user, I want the first question to load and display my place as Question 1 / 10, so I know where I am in the quiz.
+
+  User Story 5.2: As a user, I want the button to advance questions to be either not visible or not clickable until an answer is submitted, so I don't accidentally skip questions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Epic 6: Considerations
+
+  User Story 6.1: As a user, I want the app to have an intuitive user experience design, so I can easily understand and use the app.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
